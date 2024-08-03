@@ -6,14 +6,7 @@
 - I am most skilled in Full Stack Web Development.
 - I love exploring new technologies and working on innovative projects.
 
-
 ⚡ Fun fact: I love diving into the mystical world of tarot cards, combining spirituality with a touch of intuition and creativity
-
-
-- 💬 Ask me about [Topics you are knowledgeable about].
-- 📫 How to reach me: [Your Email Address or LinkedIn Profile]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A fun fact about you]
 
 ## 🛠️ Technologies and Tools
 
